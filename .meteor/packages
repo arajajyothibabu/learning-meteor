@@ -20,3 +20,4 @@ react-meteor-data
 static-html
 accounts-ui
 accounts-password
+meteortesting:mocha
